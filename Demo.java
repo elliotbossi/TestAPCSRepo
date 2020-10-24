@@ -43,7 +43,7 @@ public class Demo {
       return result;
     }
 
-    public static String arrDeepToString(int[][] arr) {
+    public static String arrayDeepToString(int[][] arr) {
       int[][]a = arr;
       int i = 0;
       String result = "{";
